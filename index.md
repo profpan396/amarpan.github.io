@@ -1,13 +1,15 @@
-# <h1 align="center">About Me</h1>
-- 1st Generation :india:Indian-American :us:
-- California native :city_sunrise:
-- Web Developer & Software Engineer who can actually write! :pencil:
-- Former high-school teacher :man_teacher:
+# About Me
+Welcome to my world. 
+- Web Developer & Software Engineer who can actually write!
 - Pursuing Instructional Associate & Technical Writer roles
+- Southern California native & Los Angeles Clippers fan 
+- Former high-school teacher
 
 
-# <h1 align="center">Writing</h1>
-
-# <h1 align="center">Web Dev</h1>
-
-# <h1 align="center">Teaching</h1>
+---
+# Writing
+---
+# Web Dev
+---
+# Teaching
+---
