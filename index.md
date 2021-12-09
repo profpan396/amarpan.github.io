@@ -35,13 +35,25 @@ Take a look at my READMEs for all my GA SEI bootcamp projects:
 Programming Languages: JavaScript, Python, Java, C, C++, NASM Assembly, HTML, CSS   
 Web Frameworks: Node.js, Express, Django   
 CSS Frameworks: Google Materialize, Semantic UI
-Databases: MongoDB Atlas, PostgreSQL
+Databases: MongoDB Atlas, PostgreSQL   
 Tools: VS Code, Slack, Zoom (very comfortable developing with a team remotely)
 
 #### My Bootcamp Projects
-##### Project #1 Simon Memory Game - Made with vanilla Javascript, HTML, CSS Flexbox & Grid - deployed using GitHub Pages
+__Project #1 Simon Memory Game__
+- A remake of the 90s classic that tests your ability to match an ever-increasing pattern with the computer
+- Made with vanilla Javascript, HTML, CSS Flexbox & Grid
+- Deployed using GitHub Pages [here](https://reviewmyproject.herokuapp.com/) with documentation [here](https://github.com/amarpan/review-my-project)   
+
 ![](https://github.com/amarpan/simon-game/raw/main/images/screenshotPlayersTurn.jpg)
 
+__Project #2 Review My Project__
+- A hub to post your bootcamp projects and get feedback on them from peers and teachers
+- Made with Node.js, Express, MongoDB, Mongoose ODM, Google Oauth, Javascript, HTML, CSS
+- Deployed using Heroku [here](https://reviewmyproject.herokuapp.com/) with documentation [here](https://github.com/amarpan/review-my-project)
+
+![](https://github.com/amarpan/review-my-project/blob/main/public/images/RMPShow.jpg?raw=true)
+
 ---
+
 ## Teaching
 ---
