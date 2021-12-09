@@ -51,7 +51,7 @@ __Project #2 Review My Project__
 - Made with Node.js, Express, MongoDB, Mongoose ODM, Google Oauth, Javascript, HTML, CSS
 - Deployed using Heroku [here](https://reviewmyproject.herokuapp.com/) with documentation [here](https://github.com/amarpan/review-my-project)
 
-![](https://github.com/amarpan/review-my-project/blob/main/public/images/RMPShow.jpg?raw=true)
+![](https://github.com/amarpan/review-my-project/raw/main/public/images/RMPShow.jpg)
 
 ---
 
