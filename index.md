@@ -28,6 +28,8 @@ Take a look at the READMEs for all my GA SEI bootcamp projects:
 - Project 3 GA Homework Tracker [(link)](https://github.com/amarpan/hw-tracker)
 - Project 4 Meet Your Classmates [(link)](https://github.com/amarpan/meet-your-classmates)
 
+#### Grant Writing
+
 ---
 ## Web Dev
 
@@ -42,8 +44,9 @@ Tools: VS Code, Slack, Zoom (very comfortable developing with a team remotely)
 __Project #1 Simon Memory Game__
 - A remake of the 90s classic that tests your ability to match an ever-increasing pattern with the computer
 - Made with vanilla Javascript, HTML, CSS Flexbox & Grid
-- Deployed via GitHub Pages [(here)](https://reviewmyproject.herokuapp.com/) with documentation [(here)](https://github.com/amarpan/review-my-project)   
+- Deployed via GitHub Pages [(here)](https://amarpan.github.io/simon-game) with documentation [(here)](https://github.com/amarpan/simon-game)   
 
+![](https://github.com/amarpan/simon-game/raw/main/images/screenshotComputersTurn.jpg)
 ![](https://github.com/amarpan/simon-game/raw/main/images/screenshotPlayersTurn.jpg)
 
 __Project #2 Review My Project__
