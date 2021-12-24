@@ -1,4 +1,4 @@
-# Amar (Pan) Panjwani
+# Pan Amar
 Welcome to my world.    
 
 ## About Me
